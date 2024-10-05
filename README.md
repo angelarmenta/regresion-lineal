@@ -21,7 +21,7 @@ MIT License.
 
 Contributions and suggestions are welcome. Fork a repository and submit your improvements via pull requests.
 
-## Announcements / Updates
+## Announcements
 
 📢 Follow us on our social media
 
