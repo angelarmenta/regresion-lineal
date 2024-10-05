@@ -1,17 +1,17 @@
 # Regresión lineal: un primer vistazo
 
 ## Abstract
-Este proyecto contiene ejemplos prácticos de regresión lineal en Python, diseñados para fines educativos. Los notebooks presentan cómo implementar modelos de regresión lineal para el análisis de datos y realizar predicciones, utilizando datos sencillos como el peso y diámetro de un conjunto de limones.
+This repository contains practical examples of linear regression in Python, designed for educational purposes. The notebooks demonstrate how to implement linear regression models for data analysis and make predictions, using simple data such as the weight and diameter of a set of lemons.
 
 🎉 Be Happy Programming 👨🏽‍💻
 
 ## Lecture
-Hemos publicado un material de que ofrece una descripción general de la regresión lineal y una aplicación sencilla sobre un conjunto de limones.
+We have published material that provides an overview of linear regression and a simple application using a dataset of lemons.
 - [Video](https://www.youtube.com/watch?v=_nrRWaUaJ-o)
 - [Notepad](https://github.com/angelarmenta/regresion-lineal/blob/main/notepad/linear-regression.pdf)
 
 ## Dataset
-- [Limones](https://github.com/angelarmenta/regresion-lineal/blob/main/dataset/ds_limones.xlsx)
+- [Lemons](https://github.com/angelarmenta/regresion-lineal/blob/main/dataset/ds_limones.xlsx)
 
 ## Notebook
 
@@ -19,6 +19,8 @@ Hemos publicado un material de que ofrece una descripción general de la regresi
 
 ## License
 MIT License.
+
+Contributions and suggestions are welcome. Fork a repository and submit your improvements via pull requests.
 
 ## Announcements / Updates
 
