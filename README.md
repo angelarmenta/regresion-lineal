@@ -14,7 +14,8 @@ We have published material that provides an overview of linear regression and a 
 - [Lemons](https://github.com/angelarmenta/regresion-lineal/blob/main/dataset/ds_limones.xlsx)
 
 ## Notebook
-
+- [RL_limones](https://github.com/angelarmenta/regresion-lineal/blob/main/notebook/RL_limones.ipynb)
+  
 ## Contribuciones
 
 ## License
