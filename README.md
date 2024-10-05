@@ -8,7 +8,7 @@ Este proyecto contiene ejemplos prácticos de regresión lineal en Python, dise�
 ## Lecture
 Hemos publicado un material de que ofrece una descripción general de la regresión lineal y una aplicación sencilla sobre un conjunto de limones.
 - [Video](https://www.youtube.com/watch?v=_nrRWaUaJ-o)
-- Notepad
+- [Notepad](https://github.com/angelarmenta/regresion-lineal/blob/main/notepad/linear-regression.pdf)
 
 ## Notebook
 
