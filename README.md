@@ -10,6 +10,9 @@ Hemos publicado un material de que ofrece una descripción general de la regresi
 - [Video](https://www.youtube.com/watch?v=_nrRWaUaJ-o)
 - [Notepad](https://github.com/angelarmenta/regresion-lineal/blob/main/notepad/linear-regression.pdf)
 
+## Dataset
+- [Limones](https://github.com/angelarmenta/regresion-lineal/blob/main/dataset/ds_limones.xlsx)
+
 ## Notebook
 
 ## Contribuciones
