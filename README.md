@@ -1,4 +1,4 @@
-# Regresión lineal: un primer vistazo
+# Linear regression: a first look
 
 ## Abstract
 This repository contains practical examples of linear regression in Python, designed for educational purposes. The notebooks demonstrate how to implement linear regression models for data analysis and make predictions, using simple data such as the weight and diameter of a set of lemons.
